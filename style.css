@@ -406,7 +406,11 @@ button {
   }
 }
 /* Footer */
- 
+  footer {
+    width: 100%;
+    color: #fff;
+    background-color: #515d6a;
+}
 
 .footer {
     padding: 4rem 5rem;
@@ -560,10 +564,7 @@ button {
     .heading, .description{
         max-width: 100%;
     }
-    .address-container, .links-container, .services-container, .newsletter-container{
-      max-width: 50%;
-      flex: 50%;
-  }
+
     .heading{
         margin-bottom: 2rem;
     }
@@ -572,13 +573,11 @@ button {
         max-width: 100%;
         flex: 100%;
     }
-    footer {
-      width: 100%;
-      color: #fff;
-      background-color: #515d6a;
-  }
 
-    
+    .address-container, .links-container, .services-container, .newsletter-container{
+        max-width: 50%;
+        flex: 50%;
+    }
 }
 
 
