@@ -1,5 +1,5 @@
 # Practice-Session-1
-**HTML CSS ASSIGNMENT** 
+**HTML CSS ASSIGNMENT IMAGES** 
 <br>
 ![Image-1](images/website-1.PNG)
 ![Image-1](images/website-2.PNG)
