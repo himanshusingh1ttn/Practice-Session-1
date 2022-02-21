@@ -54,17 +54,7 @@ body {
 
 }
 
-@media screen and (max-width: 500px) {
-  .header a {
-    float: none;
-    display: block;
-    text-align: left;
-  }
-  
-  .header-right {
-    float: none;
-  }
-}
+
 .test-image{
     background-image: url('/images/background-image.jpg');
     background-repeat: no-repeat;
@@ -579,5 +569,15 @@ button {
         flex: 50%;
     }
 }
-
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .header-right {
+    float: none;
+  }
+}
 
